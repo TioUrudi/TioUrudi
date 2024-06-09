@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TioUrudi - Marcelo Reina
 - 👀 I’m interested in learning!
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate in any possible project
+- 📫 How to reach me: reina.marcelo@gmail.com
 
 <!---
 TioUrudi/TioUrudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
